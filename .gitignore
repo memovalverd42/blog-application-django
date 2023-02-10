@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+/.vscode
+/.env
+/env
+/mysite/mysite_data.json
+
+*.log
+*.pot
